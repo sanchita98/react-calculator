@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+h1{
+  text-align: center;
+  background-color: grey; 
+}
+.calc{
+  width:320px;
+  margin:100px auto;
+}
+#answer{
+  background-color:#f1e9e9;
+  padding: 10px;
+  font-size: 45px;
+  color:rgb(37, 19, 202);
+  width: 294px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid #333;
+  
+}
+
+.button{
+  background: #333;
+  height:80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid black;
+  /* border-radius: 15px;
+  gap: 20px; */
+  float: left;
+
+}
+.button1{
+  background: #333;
+  height:80px;
+  width: 160px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid black;
+  /* border-radius: 15px;
+  gap: 20px; */
+  float: left;
+
+}
